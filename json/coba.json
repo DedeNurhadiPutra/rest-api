@@ -1,0 +1,34 @@
+[
+    {
+        "nama": "Dede Nurhadi Putra",
+        "umur": 23,
+        "alamat": "JL. Cisitu Lama 98a",
+        "menikah": false,
+        "hobby": [
+            "coding",
+            "gaming",
+            "anime"
+        ],
+        "saudara" : {
+            "saudara1" : "Cintyana",
+            "saudara2" : "Cintyani",
+            "saudara3" : "Isabela"
+        }
+    },
+    {
+        "nama": "Dede Nurhadi Putra",
+        "umur": 23,
+        "alamat": "JL. Cisitu Lama 98a",
+        "menikah": false,
+        "hobby": [
+            "coding",
+            "gaming",
+            "anime"
+        ],
+        "saudara" : {
+            "saudara1" : "Cintyana",
+            "saudara2" : "Cintyani",
+            "saudara3" : "Isabela"
+        }
+    }
+]
